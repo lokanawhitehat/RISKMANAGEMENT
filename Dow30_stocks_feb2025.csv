@@ -1,0 +1,31 @@
+Company,Exchange,Symbol,Industry,Date added,Notes,Index weighting
+3M,NYSE,MMM,Conglomerate,8/9/1976,As Minnesota Mining and Manufacturing,2.11%
+American Express,NYSE,AXP,Financial services,8/30/1982,,4.37%
+Amgen,NASDAQ,AMGN,Biopharmaceutical,8/31/2020,,3.89%
+Amazon,NASDAQ,AMZN,Retailing,2/26/2024,,3.21%
+Apple,NASDAQ,AAPL,Information technology,3/19/2015,,3.25%
+Boeing,NYSE,BA,Aerospace and defense,3/12/1987,,2.46%
+Caterpillar,NYSE,CAT,Construction and mining,5/6/1991,,5.13%
+Chevron,NYSE,CVX,Petroleum industry,2/19/2008,Also 1930-07-18 to 1999-11-01,2.14%
+Cisco,NASDAQ,CSCO,Information technology,6/8/2009,,0.83%
+Coca-Cola,NYSE,KO,Drink industry,3/12/1987,Also 1932-05-26 to 1935-11-20,0.88%
+Disney,NYSE,DIS,Broadcasting and entertainment,5/6/1991,,1.55%
+Goldman Sachs,NYSE,GS,Financial services,9/23/2013,,8.84%
+Home Depot,NYSE,HD,Home Improvement,11/1/1999,,5.67%
+Honeywell,NASDAQ,HON,Conglomerate,8/31/2020,AlliedSignal and Honeywell,3.07%
+IBM,NYSE,IBM,Information technology,6/29/1979,Also 1932-05-26 to 1939-03-04,3.54%
+Johnson & Johnson,NYSE,JNJ,Pharmaceutical industry,3/17/1997,,2.09%
+JPMorgan Chase,NYSE,JPM,Financial services,5/6/1991,,3.67%
+McDonald's,NYSE,MCD,Food industry,10/30/1985,,3.97%
+Merck,NYSE,MRK,Pharmaceutical industry,6/29/1979,,1.35%
+Microsoft,NASDAQ,MSFT,Information technology,11/1/1999,,5.68%
+Nike,NYSE,NKE,Clothing industry,9/23/2013,,1.07%
+Nvidia,NASDAQ,NVDA,Information technology,11/8/2024,,1.71%
+Procter & Gamble,NYSE,PG,Fast-moving consumer goods,5/26/1932,,2.29%
+Salesforce,NYSE,CRM,Information technology,8/31/2020,,4.70%
+Sherwin-Williams,NYSE,SHW,Speciality chemicals,11/8/2024,,5.00%
+Travelers,NYSE,TRV,Insurance,6/8/2009,,3.41%
+UnitedHealth Group,NYSE,UNH,Managed health care,9/24/2012,,7.47%
+Verizon,NYSE,VZ,Telecommunications industry,4/8/2004,,0.54%
+Visa,NYSE,V,Financial services,9/23/2013,,4.70%
+Walmart,NYSE,WMT,Retailing,3/17/1997,,1.35%
